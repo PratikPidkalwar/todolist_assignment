@@ -13,7 +13,7 @@ form {
     margin: 1rem 0.9rem 0 0.9rem;
     width: 90%;
     border-radius: 5px;
-    color: red;
+    color: rgb(164, 50, 50);
     background-color: rgba(255, 8, 0, 0.3);
 }
 
@@ -106,8 +106,9 @@ form {
 }
 
 .select-div:hover::after {
-    background-color: #666;
+    background-color: rgb(245, 156, 156);
     color: #fff;
+    
 }
 
 

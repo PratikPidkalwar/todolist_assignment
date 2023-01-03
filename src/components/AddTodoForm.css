@@ -4,6 +4,7 @@ form {
     justify-content: center;
     align-items: center; 
     width: 100%;
+    color: black;
 }
 
 .error-div, .success-div {
@@ -28,6 +29,7 @@ form {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    /* color: black; */
 }
 
 .todo-input, 
@@ -35,13 +37,15 @@ form {
     padding: 0.4rem 0.5rem;
     font-size: 1rem;
     border: none;
-    background-color: #fff; 
-    outline: none; 
+    background-color:rgb(235, 235, 241); 
+    outline: none;
+    
 }
 
 .todo-input {
     width: 70%;
     border-bottom: 1px solid rgba(153, 153, 153, 0.3);
+    /* color: black;  */
 }
 
 .todo-input::placeholder {
@@ -49,7 +53,7 @@ form {
 }
 
 .todo-button {
-    color: #fff;
+    color:rgb(238, 238, 248);
     font-weight: bold;
     background-color: #028575;
     cursor: pointer;
@@ -79,7 +83,7 @@ form {
     appearance: none;
     outline: none;
     border: none;
-    color: rgba(2, 133, 117, 0.6);
+    color: rgba(14, 15, 15, 0.6);
     width: 100%;
     cursor: pointer;
     padding: 0.4rem 0.5rem;

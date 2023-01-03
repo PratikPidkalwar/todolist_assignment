@@ -3,7 +3,7 @@
 This project is a simple application to list a series of tasks to perform. You can create, read, edit, update and delete.
 It is based on forms handling exercises such as CRUD exercises. 
 
-![To-Do List App](https://res.cloudinary.com/drpcjt13x/image/upload/v1611685165/Proyectos/To-Do%20List/Desktop_-_ToDo_List_App_1_sky57b.jpg "To-Do List App")
+![To-Do List App](https://github.com/PratikPidkalwar/todolist_assignment/blob/master/src/images/todolist%20sss.png?raw=true "To-Do List App")
 
 
 ## To-Do List App with React-Hooks.

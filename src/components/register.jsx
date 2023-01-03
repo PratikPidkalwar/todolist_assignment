@@ -46,7 +46,7 @@ const postdata=async()=>{
                 <input type='password' id='Password'  value={password} onChange={(e)=>{setPassword(e.target.value)}} placeholder='Password'/>
                 
                 <button onClick={setformdata}>register</button>
-                <p>Account bana hai to aage bado<span>&nbsp; <NavLink to="/">Login</NavLink></span></p>
+                <p style={{color:"black"}}>If you have an account?<span>&nbsp; <NavLink to="/">Login</NavLink></span></p>
             </form>
         </div>
     </div>

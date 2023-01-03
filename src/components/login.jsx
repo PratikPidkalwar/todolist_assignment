@@ -42,7 +42,7 @@ const postdata=async()=>{
                 <label htmlFor='Password'>Password</label>
                 <input type='password' id='Password'  value={password} onChange={(e)=>{setPassword(e.target.value)}} placeholder='Password'/>
                 <button onClick={login}>Login</button>
-                <p>Agar apke pass account nhi hai banao <span>&nbsp; <NavLink to="/register">Register</NavLink></span></p>
+                <p style={{color:"black"}}>If you Don't have a account? please <span>&nbsp; <NavLink to="/register">Register</NavLink></span></p>
             </form>
         </div>
     </div>

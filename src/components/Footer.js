@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div>
             <footer>
-                <p>&copy; 2021 Guaci Gutiérrez &bull; <a href="https://guacig.github.io/" target="_blank" rel="noreferrer">Portfolio</a></p>
+                <p>&copy; 2023 TodoList &bull; </p>
         </footer>
         </div>
     );
